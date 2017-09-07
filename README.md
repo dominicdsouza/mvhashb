@@ -1,4 +1,4 @@
-mvHash
+# mvHash
 
 Converted Java code from corresponding C Program mvHash(v3.0) as downloaded from Frank Breitingers(https://dasec.h-da.de/staff/breitinger-frank/) Page, Downloads section.
 
